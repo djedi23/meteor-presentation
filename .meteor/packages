@@ -1,0 +1,26 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+msavin:mongol
+meteor-platform
+less
+nemo64:bootstrap
+reactive-var
+dburles:collection-helpers
+alanning:roles
+meteorhacks:subs-manager
+accounts-password
+accounts-meetup
+accounts-github
+service-configuration
+useraccounts:bootstrap
+
+djedi:modules
+djedi:jmpress
+djedi:pres-jmpress
+djedi:pres-collections
+djedi:pres-interactions
+djedi:pres-edition
