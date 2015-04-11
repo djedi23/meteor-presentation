@@ -2,10 +2,10 @@
 
 ## Installation
 
-# Install Meteor https://www.meteor.com/install
-# Clone the repository in your workspace
-# run meteor
-# Create an user and create your presentation.
+1. Install Meteor https://www.meteor.com/install
+1. Clone the repository in your workspace
+1. run meteor
+1. Create an user and create your presentation.
 
 
 ## Dependencies
