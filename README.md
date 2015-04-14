@@ -1,5 +1,7 @@
 # Reactive and impressive presentation system made with meteor
 
+[![meteor presentation](http://img.youtube.com/vi/YEpXfa-LOW8/0.jpg)](http://www.youtube.com/watch?v=YEpXfa-LOW8)
+
 ## Installation
 
 1. Install Meteor https://www.meteor.com/install
